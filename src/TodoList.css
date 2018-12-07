@@ -1,0 +1,19 @@
+.todoListMain .theList li{
+    color: #333;
+    background-color: rgb(164, 165, 167);
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style-type: none;
+}
+.todoListMain .header input{
+    padding: 10px;
+}
+.todoListMain .header button{
+    padding: 10px;
+}
+
+ul.theList{
+    padding: 0;
+}
+

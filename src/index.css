@@ -1,0 +1,10 @@
+body{
+    padding: 50px;
+    background-color: bisque;
+    font-family: Arial;
+}
+
+#container{
+    display: flex;
+    justify-content: flex;
+}
